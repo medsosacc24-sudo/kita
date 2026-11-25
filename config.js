@@ -1,2 +1,2 @@
-const SUPABASE_URL='GANTI_DENGAN_PROJECT_URL';
+const SUPABASE_URL='https://eqyrdfailqbwbbtfejoz.supabase.co';
 const SUPABASE_KEY='sb_publishable_XhGni4xvHbMMiIsY0IoY9A_P53Txd00';
